@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1121" />
+      <stop offset="1" stop-color="#111a33" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b82f6" />
+      <stop offset="1" stop-color="#6366f1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="140" cy="120" r="180" fill="#1d4ed8" opacity="0.25" />
+  <circle cx="1040" cy="520" r="220" fill="#7c3aed" opacity="0.18" />
+  <rect x="110" y="120" width="80" height="80" rx="18" fill="url(#accent)" />
+  <text x="210" y="178" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#ffffff">
+    BlueCut
+  </text>
+  <text x="110" y="270" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="600" fill="#e2e8f0">
+    Professional Vinted photos
+  </text>
+  <text x="110" y="330" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="600" fill="#e2e8f0">
+    in one click
+  </text>
+  <rect x="110" y="380" width="420" height="8" rx="4" fill="#1f2a44" />
+  <rect x="110" y="380" width="260" height="8" rx="4" fill="url(#accent)" />
+  <text x="110" y="450" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#94a3b8">
+    Background remover + lighting fix for sellers
+  </text>
+</svg>
